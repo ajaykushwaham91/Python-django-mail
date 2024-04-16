@@ -1,0 +1,2 @@
+# Python-django-mail
+Mail 
